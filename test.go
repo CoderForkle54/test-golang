@@ -1,6 +1,7 @@
-package test.go
+package main
 
 import "fmt"
-mainfunction{
-  
+
+func main() {
+	fmt.Println("Hello, world!")
 }
